@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<world_record_list>
+<record>
+      <discipline>
+        <length>50m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Caeleb Dressel</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:20:16</time>
+        <year>2020</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Amaury Leveaux</holder_name>
+        <holder_nationality>FRA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:44:94</time>
+        <year>2008</year>
+    </performance>
+</record>
+
+<record>
+     <discipline>
+        <length>200m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Paul Biedermann</holder_name>
+        <holder_nationality>GER</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:39:37</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>400m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Yannick Agnel</holder_name>
+        <holder_nationality>FRA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>03:32:25</time>
+        <year>2012</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>800m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Grant Hacket</holder_name>
+        <holder_nationality>AUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>07:23:42</time>
+        <year>2008</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>1500m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Gregorio Paltrinieri</holder_name>
+        <holder_nationality>ITA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>14:08:06</time>
+        <year>2015</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>backstroke</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Florent Manaudou</holder_name>
+        <holder_nationality>FRA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:22:22</time>
+        <year>2014</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>backstroke</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Kliment Kolesnikov</holder_name>
+        <holder_nationality>RUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:48:58</time>
+        <year>2020</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>backstroke</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Mitchell Larkin</holder_name>
+        <holder_nationality>AUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:45:63</time>
+        <year>2015</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>breaststroke</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Cameron van der Burgh</holder_name>
+        <holder_nationality>RSA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:25:25</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>breaststroke</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Ilya Shymanovich</holder_name>
+        <holder_nationality>BLR</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:55:34</time>
+        <year>2020</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>breaststroke</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Kiril Prigoda</holder_name>
+        <holder_nationality>RUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>02:00:16</time>
+        <year>2018</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>butterfly</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Nicholas Santos</holder_name>
+        <holder_nationality>FRA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:21:75</time>
+        <year>2018</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>butterfly</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Caeleb Dressel</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:47:78</time>
+        <year>2020</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>butterfly</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Daiya Seto</holder_name>
+        <holder_nationality>JPN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:48:24</time>
+        <year>2018</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>medley</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Caeleb Dressel</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:49:28</time>
+        <year>2020</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>medley</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Ryan Lochte</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:49:63</time>
+        <year>2012</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>400m</length>
+        <stroke>medley</stroke>
+        <course>short</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Daiya Seto</holder_name>
+        <holder_nationality>JPN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>03:54:81</time>
+        <year>2019</year>
+    </performance>
+</record>
+
+<record>
+      <discipline>
+        <length>50m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Ranomi Kromowidjojo</holder_name>
+        <holder_nationality>NED</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:22:93</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Cate Campbell</holder_name>
+        <holder_nationality>AUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:50:25</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+     <discipline>
+        <length>200m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Sarah Sjöström</holder_name>
+        <holder_nationality>SWE</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:50:43</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>400m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Ariarne Titmus</holder_name>
+        <holder_nationality>AUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>03:53:92</time>
+        <year>2018</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>800m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Mireia Belmonte</holder_name>
+        <holder_nationality>ESP</holder_nationality>
+    </athlete>
+    <performance>
+        <time>07:59:34</time>
+        <year>2013</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>1500m</length>
+        <stroke>freestyle</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Sarah Köhler</holder_name>
+        <holder_nationality>GER</holder_nationality>
+    </athlete>
+    <performance>
+        <time>15:18:01</time>
+        <year>2019</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>backstroke</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Kira Toussaint</holder_name>
+        <holder_nationality>NED</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:25:60</time>
+        <year>2020</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>backstroke</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Minna Atherton</holder_name>
+        <holder_nationality>AUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:54:89</time>
+        <year>2019</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>backstroke</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Kaylee McKeown</holder_name>
+        <holder_nationality>AUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:58:94</time>
+        <year>2020</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>breaststroke</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Alia Atkinson</holder_name>
+        <holder_nationality>JAM</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:28:56</time>
+        <year>2018</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>breaststroke</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Ruta Meilutyte/Alia Atkinson</holder_name>
+        <holder_nationality>LTU, JAM</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:02:36</time>
+        <year>2013, 2014, 2016</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>breaststroke</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Rebecca Soni</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>02:14:57</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>butterfly</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Therese Alshammar</holder_name>
+        <holder_nationality>SWE</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:24:38</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>butterfly</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Sarah Sjöström</holder_name>
+        <holder_nationality>SWE</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:54:61</time>
+        <year>2014</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>butterfly</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Mireia Belmonte</holder_name>
+        <holder_nationality>ESP</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:59:61</time>
+        <year>2014</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>medley</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Katinka Hosszú</holder_name>
+        <holder_nationality>HUN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:56:51</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>medley</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Katinka Hosszú</holder_name>
+        <holder_nationality>HUN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>02:01:86</time>
+        <year>2014</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>400m</length>
+        <stroke>medley</stroke>
+        <course>short</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Mireia Belmonte</holder_name>
+        <holder_nationality>ESP</holder_nationality>
+    </athlete>
+    <performance>
+        <time>04:18:94</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+      <discipline>
+        <length>50m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Ceasr Cielo Filho</holder_name>
+        <holder_nationality>BRA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:20:91</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Ceasr Cielo Filho</holder_name>
+        <holder_nationality>BRA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:46:91</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+     <discipline>
+        <length>200m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Paul Biedermann</holder_name>
+        <holder_nationality>GER</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:42:00</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>400m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Paul Biedermann</holder_name>
+        <holder_nationality>GER</holder_nationality>
+    </athlete>
+    <performance>
+        <time>03:40:07</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>800m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Lin Zhang</holder_name>
+        <holder_nationality>CHN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>07:31:12</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>1500m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Yang Sun</holder_name>
+        <holder_nationality>CHN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>14:31:02</time>
+        <year>2012</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>backstroke</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Kliment Kolesnikov</holder_name>
+        <holder_nationality>RUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:24:00</time>
+        <year>2018</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>backstroke</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Ryan Murphy</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:51:85</time>
+        <year>2016</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>backstroke</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Aaron Piersol</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:51:92</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>breaststroke</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Adam Peaty</holder_name>
+        <holder_nationality>GBR</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:25:95</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>breaststroke</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Adam Peaty</holder_name>
+        <holder_nationality>GBR</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:56:88</time>
+        <year>2019</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>breaststroke</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Anton Chupkov</holder_name>
+        <holder_nationality>RUS</holder_nationality>
+    </athlete>
+    <performance>
+        <time>02:06:12</time>
+        <year>2019</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>butterfly</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Andrii Govorov</holder_name>
+        <holder_nationality>UKR</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:22:27</time>
+        <year>2018</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>butterfly</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Caeleb Dressel</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:49:50</time>
+        <year>2019</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>butterfly</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Kristóf Milák</holder_name>
+        <holder_nationality>HUN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:50:73</time>
+        <year>2019</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>medley</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Ryan Lochte</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:54:00</time>
+        <year>2011</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>400m</length>
+        <stroke>medley</stroke>
+        <course>long</course>
+        <gender>men</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Michael Phelps</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>04:03:84</time>
+        <year>2008</year>
+    </performance>
+</record>
+
+<record>
+      <discipline>
+        <length>50m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Sarah Sjöström</holder_name>
+        <holder_nationality>SWE</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:23:67</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Sarah Sjöström</holder_name>
+        <holder_nationality>SWE</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:51:71</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+     <discipline>
+        <length>200m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Federica Pellegrini</holder_name>
+        <holder_nationality>ITA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:52:98</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>400m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Katie Ledecky</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>03:56:46</time>
+        <year>2016</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>800m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Katie Ledecky</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>08:04:79</time>
+        <year>2016</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>1500m</length>
+        <stroke>freestyle</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Katie Ledecky</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>15:20:48</time>
+        <year>2018</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>backstroke</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Xiang Liu</holder_name>
+        <holder_nationality>CHN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:26:98</time>
+        <year>2018</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>backstroke</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Regan Smith</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:57:57</time>
+        <year>2019</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>backstroke</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Regan Smith</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>02:03:35</time>
+        <year>2019</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>breaststroke</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Lilly King</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:29:40</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>breaststroke</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Lilly King</holder_name>
+        <holder_nationality>USA</holder_nationality>
+    </athlete>
+    <performance>
+        <time>01:04:13</time>
+        <year>2017</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>breaststroke</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Rikke Pedersen</holder_name>
+        <holder_nationality>DEN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>02:19:11</time>
+        <year>2013</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>50m</length>
+        <stroke>butterfly</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Sarah Sjöström</holder_name>
+        <holder_nationality>SWE</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:24:43</time>
+        <year>214</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>100m</length>
+        <stroke>butterfly</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Sarah Sjöström</holder_name>
+        <holder_nationality>SWE</holder_nationality>
+    </athlete>
+    <performance>
+        <time>00:55:48</time>
+        <year>2016</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>butterfly</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Zige Liu</holder_name>
+        <holder_nationality>CHN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>2:01:81</time>
+        <year>2009</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>200m</length>
+        <stroke>medley</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Katinka Hosszú</holder_name>
+        <holder_nationality>HUN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>02:06:12</time>
+        <year>2015</year>
+    </performance>
+</record>
+
+<record>
+    <discipline>
+        <length>400m</length>
+        <stroke>medley</stroke>
+        <course>long</course>
+        <gender>women</gender>
+    </discipline>
+    <athlete>
+        <holder_name>Katinka Hosszú</holder_name>
+        <holder_nationality>HUN</holder_nationality>
+    </athlete>
+    <performance>
+        <time>04:26:36</time>
+        <year>2016</year>
+    </performance>
+</record>
+</world_record_list>

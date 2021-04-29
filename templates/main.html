@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+
+<html lang="cs-cz">
+    <head>
+        <title>FINA points calculator</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="{{url_for('static', filename='styles/bootstrap-3.4.1/css/bootstrap.min.css')}}"/>
+        <link rel="stylesheet" type="text/css" href="{{url_for('static', filename='styles/main.css')}}">
+
+        <script src="{{url_for('static', filename='styles/bootstrap-3.4.1/js/bootstrap.min.js')}}"></script>
+        
+        <script src="{{url_for('static', filename='javascript/jquery.min.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/ajax.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/clear.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/input.js')}}"></script>
+        <script src="{{url_for('static', filename='javascript/countdown.js')}}"></script>
+    </head>
+
+    <body>
+
+        <nav class="navbar navbar-default navbar-static-top">
+            <div class="container-fluid" id="top_navbar">
+
+              <div class="navbar-header">
+                <p class="navbar-brand" id="title">FINA points calculator</p>
+              </div>
+
+              <ul class="nav navbar-nav navbar-right collapse navbar-collapse">
+                <li><button class="btn btn-warning" id="btn_lan">EN/CZ</button></li>
+              </ul>
+
+              <ul class="nav navbar-nav navbar-left collapse navbar-collapse">
+                <li><a id="countdown"></a></li>
+              </ul>
+
+            </div>
+          </nav>
+        
+        <div class="container">
+            <form class="form-group" method="POST">
+                <div class="form-group">
+                    <div class="text-center">
+                        <input class="form-control input-lg" type="text" name="time" id="timeInput" placeholder="mm:ss:hs" pattern="[0-9]{2}:[0-9]{2}:[0-9]{2}">
+
+                        <input class="form-control input-lg" type="number" name="point_enter" id="pointInput" placeholder="points (0-1000)" style="display: none;">
+                    </div>
+                </div>
+
+                <div class="container" id="ajax_divs">
+                    
+                    <div id="errorAlert" class="alert alert-danger"></div>
+
+                    <div id="result_div" class="row">
+
+                        <div class="col-sm-2">
+                            <div id="div_distance"></div>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <div id="div_style"></div>
+                        </div>
+
+                        <div class="col-sm-4">
+                            <div id="div_points"></div>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <div id="div_course"></div>
+                        </div>
+
+                        <div class="col-sm-2">
+                            <div id="div_gender"></div>
+                        </div>
+
+                    </div>  
+                </div>
+
+                <div class="row" id="selecting">
+                    <div class="col-sm-3 text-center">
+                        <select name="distance" id="distanceInput" class="form-control">
+                            <option selected hidden>Distance</option>
+                            <option value="50m">50 m</option>
+                            <option value="100m">100 m</option>
+                            <option value="200m">200 m</option>
+                            <option value="400m">400 m</option>
+                            <option value="800m">800 m</option>
+                            <option value="1500m">1500 m</option>
+                        </select>
+                    </div>
+
+                    <div class="col-sm-3 text-center">
+                        <select name="style" id="styleInput" class="form-control">
+                            <option selected hidden>Style</option>
+                            <option value="butterfly">Butterfly</option> 
+                            <option value="backstroke">Backstroke</option>
+                            <option value="breaststroke">Breaststroke</option>
+                            <option value="freestyle">Freestyle</option>
+                            <option value="medley">Medley</option>
+                        </select>
+                    </div>
+
+                    <div class="col-sm-3 text-center">
+                        <select name="course" id="courseInput" class="form-control">
+                            <option selected hidden>Course</option>
+                            <option value="long">Long</option>
+                            <option value="short">Short</option>
+                        </select>
+                    </div>
+
+                    <div class="col-sm-3 text-center">
+                        <select name="gender" id="genderInput" class="form-control">
+                            <option selected hidden><b>Gender</b></option>
+                            <option value="men">Men</option>
+                            <option value="women">Women</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="container" id="btns">
+                    <div class="row">
+                        <button type="submit" class="btn btn-primary btn-lg" title="Use this button to calculate points/time">
+                            CALCULATE
+                        </button>
+
+                        <button type="reset" class="btn btn-primary btn-lg" onclick="clearData()" title="Use this button to clean all data">
+                            CLEAR
+                        </button>
+
+                        <button type="button" id="change" class="btn btn-primary btn-lg" onclick="changeInput()" title="Use this button to change input to points/time">
+                            ⟳
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        
+        <div class="footer">
+            <p>© 2021 Vojtěch Netrh | Contact: <a href="mailto:vojtanetrh@gmail.com">vojtanetrh@gmail.com</a></p>
+        </div>
+
+    </body>
+</html>
+
