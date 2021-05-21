@@ -6,7 +6,7 @@ import xml.dom.minidom
 app = Flask(__name__)
 
 #přiřazení xml dokumentu s data o WR
-document = xml.dom.minidom.parse("static\\data.xml")
+document = xml.dom.minidom.parse("static\data.xml")
 
 @app.route("/")
 def home():
