@@ -26,12 +26,12 @@
         <gender>men</gender>
     </discipline>
     <athlete>
-        <holder_name>Amaury Leveaux</holder_name>
-        <holder_nationality>FRA</holder_nationality>
+        <holder_name>Kyle Chalmers</holder_name>
+        <holder_nationality>AU</holder_nationality>
     </athlete>
     <performance>
-        <time>00:44:94</time>
-        <year>2008</year>
+        <time>00:44:84</time>
+        <year>2021</year>
     </performance>
 </record>
 
@@ -162,12 +162,12 @@
         <gender>men</gender>
     </discipline>
     <athlete>
-        <holder_name>Cameron van der Burgh</holder_name>
-        <holder_nationality>RSA</holder_nationality>
+        <holder_name>Cameron van der Burgh and Ilya Shymanovich</holder_name>
+        <holder_nationality>RSA and BLR</holder_nationality>
     </athlete>
     <performance>
         <time>00:25:25</time>
-        <year>2009</year>
+        <year>2009 and 2021</year>
     </performance>
 </record>
 
@@ -213,12 +213,12 @@
         <gender>men</gender>
     </discipline>
     <athlete>
-        <holder_name>Nicholas Santos</holder_name>
-        <holder_nationality>FRA</holder_nationality>
+        <holder_name>Nicholas Santos and Szebasztián Szabó</holder_name>
+        <holder_nationality>FRA and HUN</holder_nationality>
     </athlete>
     <performance>
         <time>00:21:75</time>
-        <year>2018</year>
+        <year>2018 and 2021</year>
     </performance>
 </record>
 
@@ -727,8 +727,8 @@
         <holder_nationality>RUS</holder_nationality>
     </athlete>
     <performance>
-        <time>00:24:00</time>
-        <year>2018</year>
+        <time>00:23:80</time>
+        <year>2021</year>
     </performance>
 </record>
 
@@ -846,8 +846,8 @@
         <holder_nationality>USA</holder_nationality>
     </athlete>
     <performance>
-        <time>00:49:50</time>
-        <year>2019</year>
+        <time>00:49:45</time>
+        <year>2021</year>
     </performance>
 </record>
 
@@ -1029,12 +1029,12 @@
         <gender>women</gender>
     </discipline>
     <athlete>
-        <holder_name>Regan Smith</holder_name>
-        <holder_nationality>USA</holder_nationality>
+        <holder_name>Kaylee McKeown</holder_name>
+        <holder_nationality>AU</holder_nationality>
     </athlete>
     <performance>
-        <time>00:57:57</time>
-        <year>2019</year>
+        <time>00:57:45</time>
+        <year>2021</year>
     </performance>
 </record>
 
@@ -1097,12 +1097,12 @@
         <gender>women</gender>
     </discipline>
     <athlete>
-        <holder_name>Rikke Pedersen</holder_name>
-        <holder_nationality>DEN</holder_nationality>
+        <holder_name>Tatjana Schoenmaker</holder_name>
+        <holder_nationality>RSA</holder_nationality>
     </athlete>
     <performance>
-        <time>02:19:11</time>
-        <year>2013</year>
+        <time>02:18:95</time>
+        <year>2021</year>
     </performance>
 </record>
 
