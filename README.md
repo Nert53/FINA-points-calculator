@@ -9,4 +9,4 @@ This was my final project on High school studies (programming class). The topic 
 - [ ] make simple console app, that will allow me to edit the world records in XML (propably in C#)
 
 ### License
-Please follow the file LICENSE.md in the repository.
+Please follow the file [LICENSE.md](https://github.com/Nert53/FINA-points-calculator/blob/master/LICENSE.md) in the repository.
